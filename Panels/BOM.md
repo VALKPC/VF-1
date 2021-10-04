@@ -36,3 +36,4 @@ Bill of materials (BOM)
 |28|Square block|Square mounting block|Standard component|10|
 |29|Triangle block|Triangle mounting block|Standard component|2|
 |30|Filter|Filter frame and filter|Fabricate / 3D-print|2|
+|31|Cross-brace|10 x 10mm aluminium extrusion|Standard component|1|
