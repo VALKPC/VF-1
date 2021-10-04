@@ -37,3 +37,4 @@ Bill of materials (BOM)
 |29|Triangle block|Triangle mounting block|Standard component|2|
 |30|Filter|Filter frame and filter|Fabricate / 3D-print|2|
 |31|Cross-brace|10 x 10mm aluminium extrusion|Standard component|1|
+|32|IO Panel|ITX IO Panel|Fabricate|1|
