@@ -9,4 +9,4 @@ Run your own garage CNC or have some serious manufacturing setups? Love to offer
 
 Please refer to details in [Panels](Panels).
 
-Hardware and documentation licensed under **CC BY-SA 4.0 International license**.
+Hardware and documentation licensed under **[CC BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)**.
