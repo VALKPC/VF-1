@@ -9,4 +9,7 @@ Run your own garage CNC or have some serious manufacturing setups? Love to offer
 
 Please refer to details in [Panels](Panels).
 
+We are pleased to announce that we are [OSHWA certified open source hardware](https://certification.oshwa.org/sg000005.html).
+![oshw-SG000005](https://user-images.githubusercontent.com/78197517/136728508-e8d07a93-f2a3-463f-abd5-10bc1cea6765.png)
+
 Hardware and documentation licensed under **[CC BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)**.
